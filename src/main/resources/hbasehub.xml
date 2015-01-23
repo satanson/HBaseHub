@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clusters>
+	<cluster hmaster="www.baidu.com" port="80"/>	
+	<cluster hmaster="www.haosou.com" port="80"/>
+	<cluster hmaster="node4" port="60010"/>
+	<cluster hmaster="node3" port="60010"/>
+</clusters>

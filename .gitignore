@@ -1,0 +1,10 @@
+*~
+.*.swp
+.*~
+logs/
+logs/*.log
+lib/
+lib/*.jar
+*.class
+doc/
+
